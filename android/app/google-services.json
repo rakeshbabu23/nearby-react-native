@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88911402510",
+    "project_id": "needful-final-aa6eb",
+    "storage_bucket": "needful-final-aa6eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88911402510:android:89b497eddddc6590af8e5f",
+        "android_client_info": {
+          "package_name": "com.needful"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0-tPoJ0dG0lb8k_2uZVTO5DlVOj1-7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
