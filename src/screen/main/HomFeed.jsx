@@ -148,7 +148,6 @@ const generateSampleData = (count = 4, {texts, images}) => {
     'Travel',
     'Food',
   ];
-  //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
   const aspectRatios = [0.7, 0.8, 1, 1.2, 1.5, 1.6];
   let imageIndex = -1,
     textIndex = -1;
